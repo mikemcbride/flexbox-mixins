@@ -7,4 +7,5 @@ Flexbox is awesome. Unfortunately, it's still new enough that the properties don
 
 ## Author
 [http://www.twitter.com/mmcbride1007](http://www.twitter.com/mmcbride1007)
+
 [http://www.github.com/mmcbride1007](http://www.github.com/mmcbride1007)
