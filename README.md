@@ -6,6 +6,6 @@ Flexbox is awesome. Unfortunately, it's still new enough that the properties don
 - Inside your project, create a `main.less` file. In that file, add `@import "flexbox.less";` and you're good to go!
 
 ## Author
-[http://www.twitter.com/mmcbride1007](http://www.twitter.com/mmcbride1007)
-
-[http://www.github.com/mmcbride1007](http://www.github.com/mmcbride1007)
+**Mike McBride**
+- [http://www.twitter.com/mmcbride1007](http://www.twitter.com/mmcbride1007)
+- [http://www.github.com/mmcbride1007](http://www.github.com/mmcbride1007)
