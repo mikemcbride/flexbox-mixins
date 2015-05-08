@@ -1,8 +1,8 @@
 # Flexbox Mixins
-Flexbox is awesome. Unfortunately, it's still new enough that the properties don't have consistent values across browsers. This is a set of LESS mixins that I wrote to make it cross-browser compatible and easy to use.
+Flexbox is awesome. Unfortunately, it's still new enough that the properties don't have consistent values across browsers. This is a set of LESS mixins that I wrote to make it cross-browser compatible and easy to use. Alternatively, if you are using Sass/SCSS, [Compass](http://compass-style.org/) has some excellent Flexbox mixins that are worth checking out.
 
 ## How to use
-- These mixins require [LESS](http://www.lesscss.org)
+- These mixins require LESS
 - Inside your project, create a `main.less` file. In that file, add `@import "flexbox.less";` and you're good to go!
 
 ## Author
@@ -14,7 +14,7 @@ Flexbox is awesome. Unfortunately, it's still new enough that the properties don
 
 The MIT License (MIT)
 
-  Copyright (c) 2015 @mmcbride1007 
+  Copyright (c) 2015 @mmcbride1007
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
