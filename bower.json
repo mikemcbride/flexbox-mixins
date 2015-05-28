@@ -1,0 +1,23 @@
+{
+	"name": "flexbox-mixins",
+	"version": "1.0.0",
+	"authors": [
+		"Mike McBride <hi@mmcbride1007.com>"
+	],
+	"description": "Flexbox mixins for cross-browser compatibility using LESS",
+	"keywords": [
+		"less",
+		"flexbox",
+    "mixin"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}

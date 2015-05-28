@@ -7,6 +7,11 @@ Note: these mixins will only support IE 9 and beyond. IE 9 uses an early version
 - These mixins require LESS
 - Inside your project, create a `main.less` file. In that file, add `@import "flexbox.less";` and you're good to go!
 
+## Installation
+Install via Bower:
+
+`bower install flexbox-mixins`
+
 ## Author
 **Mike McBride**
 - [http://www.twitter.com/mmcbride1007](http://www.twitter.com/mmcbride1007)
