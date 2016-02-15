@@ -1,4 +1,7 @@
 # Flexbox Mixins
+
+> These mixins are largely rendered useless now because of [Autoprefixer](https://github.com/postcss/autoprefixer). You should definitely use that in your build process in lieu of resorting to mixins to resolve flexbox inconsistencies.
+
 Flexbox is awesome. Unfortunately, it's still new enough that the properties don't have consistent values across browsers. This is a set of LESS mixins that I wrote to make it cross-browser compatible and easy to use. Alternatively, if you are using Sass/SCSS, [Compass](http://compass-style.org/) has some excellent Flexbox mixins that are worth checking out.
 
 Note: these mixins will only support IE 9 and beyond. IE 9 uses an early version of the Flexbox spec but IE8 has zero support. If you have to support IE8, you will need to do additional layout considerations to make that work. Also, I feel bad for you because that's no fun...
